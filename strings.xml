@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alerte Courses</string>
+    <string name="service_label">Alerte Courses – lecture inDrive / Yassir</string>
+    <string name="service_description">Lit le texte des demandes de course affichées par inDrive et Yassir Driver (prix, distance, destination) pour vous alerter quand une course correspond à vos critères. Le service ne clique jamais et n\'envoie aucune donnée hors du téléphone.</string>
+</resources>
